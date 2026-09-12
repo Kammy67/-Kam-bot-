@@ -1,0 +1,13 @@
+{
+  "name": "⭐kam-bot⭐",
+  "version": "1.0.0",
+  "description": "Monkey Empire Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "node-cron": "^4.2.1"
+  }
+}}
